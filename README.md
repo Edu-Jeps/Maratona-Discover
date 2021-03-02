@@ -1,7 +1,12 @@
-<h1>Aplicação de Finaça</h1>
+#Aplicação de Finaça
 
-technologias usadas JavaScript, HTML e CSS
+##tecnologias usadas 
+    -JavaScript
+    -HTML
+    -CSS
 
+#Demo
+<img src="" alt="Demonstração da aplicação">
 Curso feito Pela Rocketseat
 Prof. mayk brito
 
